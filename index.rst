@@ -50,6 +50,14 @@
 
    Procedure to document activities carried out by IT User Support when working remotely.
 
+   ============
+Introduction
+============
+
+Due to the global viral outbreak, Rubin Observatory has shut down its operations both at summit Pachon and La Serena Recinto and has moved on to remote work.
+
+The purpose of this document is to clarify IT User Support activities through the next 3 to 6 months detailing our service desk approach throughout this period of time.
+
 .. Add content here.
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
