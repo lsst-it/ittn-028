@@ -51,6 +51,43 @@
    Procedure to document activities carried out by IT User Support when working remotely.
 
 .. Add content here.
+
+Introduction
+============
+
+IT User Support - Communication channels
+========================================
+
+Jira
+-----
+
+Slack
+-----
+
+Email
+-----
+
+IT User Support - Work Schedule 
+========================================
+
+Emergencies
+-----------
+
+IT User Support - Communication channels
+========================================
+
+Current Situation
+=================
+
+Summit Status
+-------------
+
+La Serena Status
+----------------
+
+Purchases and Warehouse
+=======================
+
 .. Do not include the document title (it's automatically added from metadata.yaml).
 
 .. .. rubric:: References
