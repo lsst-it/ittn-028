@@ -148,6 +148,7 @@ Aura warehouse is working normally with Victor Rojas in charge of receiving all 
 Due to the national contingency, these activities are being handled a bit slower than usual but it is all working normally based on the most important necessities.
 
 .
+
 .. Add content here.
 
 .. Do not include the document title (it's automatically added from metadata.yaml).
