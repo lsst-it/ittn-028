@@ -66,6 +66,10 @@ The purpose of IT user support is to capture demand for incident resolution and 
 
 Jira
 -----
+.. figure:: /_static/jira.png
+    :name: fig-label
+
+    Jira.
 The IT support dashboard is the main point of contact with the helpdesk when it comes to reporting incidents and handling requests.
 
 If you are not sure how to file a ticket correctly to IT User Support please visit the following guide to assist you with this process:
@@ -74,12 +78,26 @@ How to file a JIRA Ticket for IT User Support
 
 Slack
 -----
+.. figure:: /_static/slack.jpg
+    :name: fig-label
+
+    Slack.
 Another way we can report a problem or request is by contacting directly through the slack application.
 
 This can be done by one of the two ways:
 
     Signing in through your computer device or smartphone with your account credentials.
     Signing in through the slack website located at https://slack.com/signin  using the lsstc workspace name.
+
+.. figure:: /_static/slack1.png
+    :name: fig-label
+
+    Sign in.
+
+.. figure:: /_static/slack2.png
+    :name: fig-label
+
+    Sign in.
 
 
 Note: If you don't remember your slack password, you can always use the "Forgot Password" option to reset your account password using your LSST email.
